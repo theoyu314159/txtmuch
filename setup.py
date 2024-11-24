@@ -8,7 +8,7 @@ setup(
     description="A txt model,it is my first model,use for test.",  #
     long_description=open("readme.md", "r", encoding="utf-8").read(),  
     long_description_content_type="text/markdown",  
-    url="/",  
+    url="https://github.com/theoyu314159/txtmuch/tree/main",  
     packages=find_packages(),  
     classifiers=[
         "Programming Language :: Python :: 3",
